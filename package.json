@@ -1,0 +1,19 @@
+{
+  "name": "note-cli-tool",
+  "version": "1.0.0",
+  "description": "This is a simple cli tool that manages a list of tasks on the local file system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edan-Leibo/task-list-cli-tool.git"
+  },
+  "author": "Leibovitz Edan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edan-Leibo/task-list-cli-tool/issues"
+  },
+  "homepage": "https://github.com/Edan-Leibo/task-list-cli-tool#readme"
+}
